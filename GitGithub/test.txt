@@ -1,0 +1,8 @@
+Encapsulation is an object-oriented programming principle
+that involves bundling the data (fields) and methods (functions)
+that operate on the data into a single unit, typically a class.
+
+It also restricts direct access to some of an object’s components by 
+using access specifiers like private.
+Im on the way
+I love to travel
