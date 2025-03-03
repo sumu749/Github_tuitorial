@@ -8,3 +8,6 @@ Im on the way
 I love to travel
 820ceb6
 I love Bangladesh.
+git remote add origin https://github.com/sumu749/Github_tuitorial.git
+git branch -M main
+git push -u origin main
