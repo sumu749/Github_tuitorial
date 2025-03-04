@@ -10,4 +10,7 @@ I love to travel
 I love Bangladesh.
 git remote add origin https://github.com/sumu749/Github_tuitorial.git
 git branch -M main
-git push -u origin main
+
+Today is Tuesdy.
+I started my day at 9 am.
+
